@@ -105,7 +105,7 @@ export class App extends Component {
 
         {currentIndex < QuizData.length - 1 && (
           <button
-            disabled={this.state.disable}
+            // disabled={this.state.disable}
             onClick={this.nextQuestionHadler}
           >
             Następne pytanie
