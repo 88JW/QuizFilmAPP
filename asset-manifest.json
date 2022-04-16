@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/QuizFilmAPP/static/css/main.fcdb196b.css",
-    "main.js": "/QuizFilmAPP/static/js/main.97876943.js",
+    "main.css": "/QuizFilmAPP/static/css/main.34558b1e.css",
+    "main.js": "/QuizFilmAPP/static/js/main.2888d464.js",
     "static/media/6_monty_python_and_the_holy_grail.PNG": "/QuizFilmAPP/static/media/6_monty_python_and_the_holy_grail.dfe2fbfbbc275532b11a.PNG",
     "static/media/5_life_of_brian.PNG": "/QuizFilmAPP/static/media/5_life_of_brian.a2b1eef9516c5802f774.PNG",
-    "static/media/9_rocky_horror_picture_show.PNG": "/QuizFilmAPP/static/media/9_rocky_horror_picture_show.333f97f0b51b363a755a.PNG",
     "static/media/3_darjeeling_limited.PNG": "/QuizFilmAPP/static/media/3_darjeeling_limited.06b2a8f312bf1edfd362.PNG",
+    "static/media/17_clockwork_orange.PNG": "/QuizFilmAPP/static/media/17_clockwork_orange.663b5ed1db0cb5b1e3ae.PNG",
     "static/media/2_forrest_gump.PNG": "/QuizFilmAPP/static/media/2_forrest_gump.42d0d6c0a4817b638b85.PNG",
     "static/media/10_pulp_fiction.PNG": "/QuizFilmAPP/static/media/10_pulp_fiction.a6e063cad8da672cb122.PNG",
-    "static/media/8_batman.PNG": "/QuizFilmAPP/static/media/8_batman.fc6d69863ddf9808c385.PNG",
+    "static/media/19_ghostbusters.PNG": "/QuizFilmAPP/static/media/19_ghostbusters.2f4daeb836b0d2803f2f.PNG",
     "static/media/4_fight_club.PNG": "/QuizFilmAPP/static/media/4_fight_club.be6f2b3eb78225b2fe11.PNG",
     "static/media/7_dr_strangelove.PNG": "/QuizFilmAPP/static/media/7_dr_strangelove.b1931cefa973119c4ceb.PNG",
     "index.html": "/QuizFilmAPP/index.html",
-    "main.fcdb196b.css.map": "/QuizFilmAPP/static/css/main.fcdb196b.css.map",
-    "main.97876943.js.map": "/QuizFilmAPP/static/js/main.97876943.js.map"
+    "main.34558b1e.css.map": "/QuizFilmAPP/static/css/main.34558b1e.css.map",
+    "main.2888d464.js.map": "/QuizFilmAPP/static/js/main.2888d464.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcdb196b.css",
-    "static/js/main.97876943.js"
+    "static/css/main.34558b1e.css",
+    "static/js/main.2888d464.js"
   ]
 }
