@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/QuizFilmAPP/static/css/main.34558b1e.css",
-    "main.js": "/QuizFilmAPP/static/js/main.2888d464.js",
+    "main.css": "/QuizFilmAPP/static/css/main.7807abe8.css",
+    "main.js": "/QuizFilmAPP/static/js/main.b09356cc.js",
     "static/media/6_monty_python_and_the_holy_grail.PNG": "/QuizFilmAPP/static/media/6_monty_python_and_the_holy_grail.dfe2fbfbbc275532b11a.PNG",
     "static/media/5_life_of_brian.PNG": "/QuizFilmAPP/static/media/5_life_of_brian.a2b1eef9516c5802f774.PNG",
     "static/media/3_darjeeling_limited.PNG": "/QuizFilmAPP/static/media/3_darjeeling_limited.06b2a8f312bf1edfd362.PNG",
@@ -12,11 +12,11 @@
     "static/media/4_fight_club.PNG": "/QuizFilmAPP/static/media/4_fight_club.be6f2b3eb78225b2fe11.PNG",
     "static/media/7_dr_strangelove.PNG": "/QuizFilmAPP/static/media/7_dr_strangelove.b1931cefa973119c4ceb.PNG",
     "index.html": "/QuizFilmAPP/index.html",
-    "main.34558b1e.css.map": "/QuizFilmAPP/static/css/main.34558b1e.css.map",
-    "main.2888d464.js.map": "/QuizFilmAPP/static/js/main.2888d464.js.map"
+    "main.7807abe8.css.map": "/QuizFilmAPP/static/css/main.7807abe8.css.map",
+    "main.b09356cc.js.map": "/QuizFilmAPP/static/js/main.b09356cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.34558b1e.css",
-    "static/js/main.2888d464.js"
+    "static/css/main.7807abe8.css",
+    "static/js/main.b09356cc.js"
   ]
 }
